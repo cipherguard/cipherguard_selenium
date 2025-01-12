@@ -1,0 +1,14 @@
+# generic files to ignore
+*.DS_Store
+*~
+*.swp
+.idea
+
+# reports
+reports/
+
+# plugins
+node_modules/
+
+# local assets
+bin/my/
